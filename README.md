@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Project Link: https://clone-1a.firebaseapp.com/
+## Project Link: https://clone-1a.firebaseapp.com/
 
 ## Available Scripts
 
